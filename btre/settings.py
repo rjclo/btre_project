@@ -153,6 +153,6 @@ MESSAGE_TAGS = {
 # email config
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'richard.jclo@gmail.com'
-EMAIL_HOST_PASSWORD = 'Ta1wan#One'
+EMAIL_HOST_USER = '' #FIXME
+EMAIL_HOST_PASSWORD = '' #FIXME
 EMAIL_USE_TLS = True
